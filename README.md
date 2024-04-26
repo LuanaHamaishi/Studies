@@ -5,5 +5,5 @@ I'm always looking to improve myself and learn more about technologies, so here 
 
 
 ## Contact-me
-[My LinkedIn profile](www.linkedin.com/in/luanahamaishi)
-[My professional e-mail](luanavshamaishi@gmail.com)
+- Email: [Email](luanavshamaishi@gmail.com)
+- LinkedIn: [My LinkedIn profile](www.linkedin.com/in/luanahamaishi)
