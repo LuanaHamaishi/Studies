@@ -5,5 +5,5 @@ I'm always looking to improve myself and learn more about technologies, so here 
 
 
 ## Contact-me
-- Email:<luanavshamaishi@gmail.com>
-- LinkedIn:<https://www.linkedin.com/in/luanahamaishi>
+- Email: <luanavshamaishi@gmail.com>
+- LinkedIn: <https://www.linkedin.com/in/luanahamaishi>
